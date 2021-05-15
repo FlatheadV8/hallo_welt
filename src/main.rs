@@ -3,7 +3,7 @@ fn main() {
 
 	let i = "2";
 
-	println!("{}", i);
+	println!("Zahl i = {}", i);
 
 	println!("Tschüss Welt!");
 }
