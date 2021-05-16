@@ -1,5 +1,5 @@
 //use ffprobe::{ffprobe, FfProbe, Stream};
-use ffprobe::{ffprobe};
+use ffprobe::ffprobe;
 use std::path::Path;
 
 fn main() {
